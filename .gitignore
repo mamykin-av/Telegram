@@ -1,6 +1,9 @@
 .idea/
 .gradle/
 build/
+.cxx/
 obj/
+TMessagesProj/google-services.json
 *.iml
 local.properties
+gradle.properties
